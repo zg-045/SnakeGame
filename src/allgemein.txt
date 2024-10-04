@@ -1,0 +1,7 @@
+neue Funktionen zu implementieren:
+ 
+ > Man kann bspw. pfeiltaste rechts, dann schnell pfeiltaste links drücken, sodass der snake in sich selber hineingeht und kollidiert
+   Das muss noch gefixt werden
+   
+ 
+ > Implementieren, dass Apfel nicht in Position des Snake-Körpers ist
